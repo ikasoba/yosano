@@ -1,6 +1,6 @@
 <h1><p align="center">
 👀<br/>
-Yosano is always watching file system.
+Yosano is watching file system.
 </p></h1>
 
 ```plain

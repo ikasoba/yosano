@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "yosano",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "tiny file system watcher.",
   "main": "dist/index.js",
   "scripts": {
@@ -11,7 +11,8 @@
   "keywords": [
     "fs",
     "watch",
-    "watcher"
+    "watcher",
+    "Akiko Yosano"
   ],
   "license": "MIT",
   "devDependencies": {
