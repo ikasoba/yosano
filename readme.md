@@ -6,7 +6,7 @@ Yosano is always watching file system.
 ```plain
 
    .-===-._
-  /     .  `,
+  /     .  `.
  j  ___'|_   `.
 /  /_   __`.  |
 | |<o` '<o>|  `.
