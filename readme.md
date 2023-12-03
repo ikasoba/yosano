@@ -1,6 +1,6 @@
 <h1><p align="center">
 👀<br/>
-Yosano is Always Watching File System.
+Yosano is always watching file system.
 </p></h1>
 
 ```plain
@@ -26,3 +26,9 @@ for (const event of watch("**/*")) {
    console.log(event);
 }
 ```
+
+# What is "Yosano Akiko is always watching you."
+
+"Yosano Akiko is always watching you." is a Yosano Akiko meme that went viral on misskey.io and other sites in early 2023.
+
+This meme seems to have spread to servers other than misskey.io, and various misskey servers have Yosano Akiko emojis registered.
