@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "yosano",
+  "version": "0.1.0",
+  "description": "tiny file system watcher.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc --build",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "fs",
+    "watch",
+    "watcher"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.10.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  },
+  "dependencies": {
+    "minimatch": "^9.0.3"
+  }
+}
